@@ -16,5 +16,4 @@ This folder contains Netdata setup files and monitoring configurations.
 - Document any dependencies or system requirements
 - Test configurations before uploading
 
-## University at Albany Compliance:
-Follow all academic integrity policies and lab safety guidelines.
+
