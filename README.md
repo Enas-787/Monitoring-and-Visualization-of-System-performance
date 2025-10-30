@@ -1,4 +1,4 @@
-#Project Title: Monitoring and Visualization of System performance # Time Line: documentation/Enas Alnaseri Timeline and Member Contribution.pdf
+#Project Title: Monitoring and Visualization of System performance 
 
 Group Members:
 • Enas Alnaseri
