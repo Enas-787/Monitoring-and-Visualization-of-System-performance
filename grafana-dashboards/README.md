@@ -1,4 +1,4 @@
 # Looker Studio
 
+I have compared Python and Netdata's CPU Idle's and CPU Stresses.
 
-Dashboards - Export as a JSON file to import into Grafana  Descriptive filenames
